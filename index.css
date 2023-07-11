@@ -59,7 +59,8 @@
 }
 /* benner section style end */
 
-/* upper featured style here */
+
+/* upper featured style from here */
 .featured-container{
     margin: 300px 0;
 }
@@ -111,8 +112,6 @@
 }
 
 
-
-
 .upper-featured-items{
     width: 364px;
     height: 400px;
@@ -137,8 +136,9 @@
 .upper-featured-items-container{
     margin: 100px 0;
 }
+/* upper featured style end here */
 
-/* lower featured style here */
+/* lower featured style starts from here */
 .lower-featured{
     width: 90%;
     display: flex;
@@ -168,7 +168,7 @@
     font-size: 24px;
     font-weight: 600;
 }
-/* lower section style end here */
+/* lower featured style end here */
 
 /* about style starts from here */
 .about{
@@ -220,7 +220,7 @@ span{
     border-radius: 8px;
     margin: 200px auto;
 }
-
+/* about style starts end here */
 
 /* contact container style starts form here */
 .images{
@@ -251,6 +251,10 @@ span{
     width: 50%;
     margin: auto;
 }
+
+/* contact container style end here */
+
+
 /* details section starts form here */
 .details-container{
     width: 80%;
@@ -295,6 +299,8 @@ span{
     justify-content: center;
     gap: 10px;
 }
+/* details section starts form here */
+
 
 /* footer style starts from here */
 .footer-section{
@@ -331,3 +337,4 @@ span{
     justify-content: center;
     align-items: center;
 }
+/* footer style starts end here */
